@@ -1,2 +1,2 @@
 # projetohoraatual
-Este é um simples prgrama escrito em javaScript que mostra se é manhã, tarde ou noite dependendo do horário local da maquína
+Este é um simples programa escrito em javaScript que mostra se é manhã, tarde ou noite e o horário atual, usando o horário atual da maquína que está rodando o programa como referência.
